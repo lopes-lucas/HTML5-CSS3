@@ -42,5 +42,113 @@
             <div class="banner"></div>
         </div>
     </div>
+    <div class="menu">
+        <div class="menuint">
+            <ul>
+                <li><a href="./" class="ativo">Home</a></li>
+                <li><a href="./">Economia</a></li>
+                <li>
+                    <a href="./">Entreterimento</a>
+                    <img src="assets/img/arrowdown.jpg" border="" width="10px" />
+                    <div class="submenu">
+                        <a href="./"><div class="submenuitem">Submenu 1 </div></a>
+                        <a href="./"><div class="submenuitem">Submenu 2 </div></a>
+                        <a href="./"><div class="submenuitem">Submenu 3 </div></a>
+                        <a href="./"><div class="submenuitem">Submenu 4 </div></a>
+                        <a href="./"><div class="submenuitem">Submenu 5 </div></a>
+                    </div>
+                </li>
+                <li>
+                    <a href="./">Esportes</a>
+                    <img src="assets/img/arrowdown.jpg" border="" width="10px" />
+                    <div class="submenu">
+                        <a href="./"><div class="submenuitem">Submenu 1 </div></a>
+                        <a href="./"><div class="submenuitem">Submenu 2 </div></a>
+                        <a href="./"><div class="submenuitem">Submenu 3 </div></a>
+                        <a href="./"><div class="submenuitem">Submenu 4 </div></a>
+                    </div>
+                </li>
+                <li><a href="./">Geral</a></li>
+                <li>
+                    <a href="./">Notícas</a>
+                    <img src="assets/img/arrowdown.jpg" border="" width="10px" />
+                    <div class="submenu">
+                        <a href="./"><div class="submenuitem">Submenu 1 </div></a>
+                        <a href="./"><div class="submenuitem">Submenu 2 </div></a>
+                        <a href="./"><div class="submenuitem">Submenu 3 </div></a>
+                    </div>
+                </li>
+                <li><a href="./">Polícia</a></li>
+                <li><a href="./">Videos</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="ultimasnoticias">
+        <div class="ultimasnoticiasint">
+            <div class="ultnociciasarea">
+                <div class="ultnoticiastitulo">Ultimas Notícias</div>
+                <div class="ultnoticiasnoticia">Alguma noticia de algum texto
+                    que irá ficar aqui mesmo...
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="containerint">
+            <div class="leftside"></div>
+            <div class="rightside">
+                <div class="widget">
+                    <div class="widget_titulo">SOCIAL</div>
+                    <div class="widget_conteudo">
+                        <a href=""><img src="assets/img/rss.png" border="0" width="26"
+                            height="26"/></a>
+                        <a href=""><img src="assets/img/googleplus.png" border="0" width="26"
+                            height="26" /></a>
+                        <a href=""><img src="assets/img/facebook.png" border="0" width="26"
+                            height="26" /></a>
+                        <a href=""><img src="assets/img/twitter.png" border="0" width="26"
+                            height="26" /></a>
+                        <a href=""><img src="assets/img/youtube.png" border="0" width="26"
+                            height="26" /></a>    
+                    </div>
+                </div>
+                <div class="widget">
+                    <div class="widget_titulo">ÚLTIMAS NOTICIAS</div>
+                    <div class="widget_conteudo">
+                        <div class="noticia_item">
+                            <a href="./">Titulo da noticia que tenha duas linhas para quem
+                            eu possa exemplicar correto no meu site.</a>
+                        </div>
+                        <div class="noticia_item">
+                            <a href="./">Titulo da noticia que tenha duas linhas para quem
+                            eu possa exemplicar correto no meu site.</a>
+                        </div>
+                        <div class="noticia_item">
+                            <a href="./">Titulo da noticia que tenha duas linhas para quem
+                            eu possa exemplicar correto no meu site.</a>
+                        </div>
+                        <div class="noticia_item">
+                            <a href="./">Titulo da noticia que tenha duas linhas para quem
+                            eu possa exemplicar correto no meu site.</a>
+                        </div>
+                        <div class="noticia_item">
+                            <a href="./">Titulo da noticia que tenha duas linhas para quem
+                            eu possa exemplicar correto no meu site.</a>
+                        </div>
+                    </div>
+                    <div class="widget">
+                        <div class="widget_titulo">PUBLICIDADE</div>
+                        <div class="widget_conteudo">
+                            <img src="assets/img/banner.jpg" border="0" width="275" />
+                    </div>
+                 </div>
+                 <div class="widget">
+                    <div class="widget_titulo">ENCONTRE-NOS NO FACEBOOK</div>
+                    <div class="widget_conteudo">
+                        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ffacebook&tabs&width=275&height=130&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="275" height="130" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+                </div>
+             </div>
+        </div>
+    </div>
 </body>
 </html>
